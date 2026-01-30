@@ -15,8 +15,8 @@
 
 # blender_script
 ## rebuilding 3d model in blender
-## one caption for building
+### one caption for building
 ![image](https://github.com/zhoutao2333/caption2building/blob/master/img/one_cap.png)
 
-## two caption for building
+### two caption for building
 ![image](https://github.com/zhoutao2333/caption2building/blob/master/img/two_cap.png)
